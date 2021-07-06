@@ -1,0 +1,5 @@
+docker/*gz
+build/
+clang*/
+*.xz
+.docker_build
